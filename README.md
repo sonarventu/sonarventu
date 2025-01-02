@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Davide!
 - 👀 I did my PhD in Statistical Physics @SISSA (Italy), but now I work in LPTMC (Sorbonne) in Paris
 - 🌱 In my work I focus on theoretical models for soft and active matter systems
-- 📫 You can reach me here: dventure at sissa.it
-- My homepage: https://www.statphys.sissa.it/wordpress/?page_id=5240
+- 📫 You can reach me here: davide.venturelli at cnrs.fr
+- My homepage: https://sonarventu.github.io
